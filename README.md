@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eidolon.
-- 👀 I’m interested mostly in Powershell. I also like storage, SSDs in particular and computers in general.
+- 👀 I’m interested mostly in Powershell. I also like storage, SSDs in particular, and computers in general.
 - 🌱 I’m currently learning to repair PCs and all sorts of odds and sods.
 - 📫 How to reach me: I tend to be active on Discord
 
